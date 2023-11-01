@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Augmentic/static/css/main.07380144.css",
+    "main.js": "/Augmentic/static/js/main.1ffb682e.js",
+    "static/js/787.6ba0daa5.chunk.js": "/Augmentic/static/js/787.6ba0daa5.chunk.js",
+    "static/media/Carousel_Image_Cards_2x.webp": "/Augmentic/static/media/Carousel_Image_Cards_2x.95681290e94b52e24456.webp",
+    "static/media/Carousel_Image_Boards_2x.webp": "/Augmentic/static/media/Carousel_Image_Boards_2x.cd4ba8ad196b131f6908.webp",
+    "static/media/Carousel_Image_Lists_2x.webp": "/Augmentic/static/media/Carousel_Image_Lists_2x.3a1219caaa0f58937fe2.webp",
+    "static/media/esalink.webp": "/Augmentic/static/media/esalink.623e5ace2a767912bcb2.webp",
+    "static/media/global.svg": "/Augmentic/static/media/global.e36a9eaf57232b4e0292056d3526f3ce.svg",
+    "static/media/logo.svg": "/Augmentic/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Augmentic/index.html",
+    "main.07380144.css.map": "/Augmentic/static/css/main.07380144.css.map",
+    "main.1ffb682e.js.map": "/Augmentic/static/js/main.1ffb682e.js.map",
+    "787.6ba0daa5.chunk.js.map": "/Augmentic/static/js/787.6ba0daa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07380144.css",
+    "static/js/main.1ffb682e.js"
+  ]
+}
